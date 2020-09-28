@@ -5,3 +5,7 @@ Inici proves de Git.
 Ara ja hauria de sortit la branca branch1.
 
 Darrer canvi abans de fer el merge de branques
+=======
+Creada primera branca (branch1)
+
+
